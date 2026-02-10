@@ -1,1 +1,6 @@
+.venv/
 04_ml/Gain*
+*.pkl
+*.h5
+*.joblib
+*.json
