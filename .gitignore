@@ -4,3 +4,5 @@
 *.h5
 *.joblib
 *.json
+*.keras
+NWPU-RESISC45
