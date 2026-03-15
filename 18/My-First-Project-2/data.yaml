@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['closed_hand', 'open_hand', 'piece_sign', 'thumbs_down', 'thumbs_up']
+
+roboflow:
+  workspace: youssefs-workspace-7form
+  project: my-first-project-kdwny
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/youssefs-workspace-7form/my-first-project-kdwny/dataset/2

@@ -6,3 +6,7 @@
 *.json
 *.keras
 NWPU-RESISC45
+
+18/.env
+19_seg/for.jpeg
+19_seg/output.jpg
